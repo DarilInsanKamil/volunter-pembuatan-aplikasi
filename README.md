@@ -9,3 +9,4 @@ Silakan gunakan format berikut:<br>
 Berikut adalah daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 * DarilKamil, [Github](https://github.com/DarilKamil/volunter-pembuatan-aplikasi)
+* Komang gaming
